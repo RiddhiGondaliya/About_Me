@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Hello Riddhi!</string>
+    <string name="yellow_star">yellow star</string>
+    
+    <string name="bio">\nMy name is Maciek, and I’m a career writer. My job is to provide job seekers \n\nwith expert advice on career-related topics.
+
+        \n\nI read a lot and consult recruiting professionals \n\nso you don’t have to.
+
+
+       \n I show you how to hack the recruitment process, \n\ncreate a job-winning resume, ace the job interview,
+
+        \n\nand...
+
+        \nintroduce yourself,\n\n among others.</string>
+    <string name="hello_riddhi">hello Riddhi!</string>
+    <string name="what_is_your_nickname">what is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
